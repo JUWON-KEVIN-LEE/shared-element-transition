@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedElementTransitionAnimation</string>
+    <string name="transition">transit</string>
+</resources>
